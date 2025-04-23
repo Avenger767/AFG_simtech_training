@@ -1,1 +1,0 @@
-# AFG_SimTech
