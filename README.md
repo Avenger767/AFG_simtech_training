@@ -1,1 +1,1 @@
-# AFG_simtech_training
+# AFG_SimTech
